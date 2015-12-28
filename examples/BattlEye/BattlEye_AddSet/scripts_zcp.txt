@@ -1,0 +1,1 @@
+7 addpublicvariableeventhandler !="PV_ZCP_zupastic\" addPublicVariableEventHandler {\n_messageArray = _this select 1;\nhint parseText "

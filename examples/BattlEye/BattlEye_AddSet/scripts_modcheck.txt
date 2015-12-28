@@ -1,0 +1,1 @@
+7 execVM !=" {typeOF player != "Exile_Unit_GhostPlayer"};\nuiSleep 2;\n\n[] execVM \"custom\ModCheck.sqf\";\n\n\ncall CompileFinal preprocessFileLin"

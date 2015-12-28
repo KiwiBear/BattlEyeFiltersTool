@@ -1,0 +1,1 @@
+7 createMarker !="Map) then {\n_members = units (group player);\n\n{\n_marker = createMarkerLocal [format[\"%1_marker\",_x],visiblePosition _x];\n_marker"
